@@ -1,4 +1,4 @@
-# Wonderswan-Mounting-Board
+# Wonderswan-Serial-Connector-Mount
 General mounting board for homebrew Wonderswan accessories.
 
 This project is licensed under the GNU gpl v3 and is for open source use only.
